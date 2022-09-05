@@ -1,0 +1,45 @@
+Mar  2 06:00:00 nxengine NX[2335]: [NEXThink|CallbackManager.cpp:102|0x59280b40] 1.5GB of virtual memory used
+Mar  2 07:00:00 nxengine NX[2335]: [NEXThink|CallbackManager.cpp:102|0x59280b40] 1.5GB of virtual memory used
+Mar  2 08:00:00 nxengine NX[2335]: [NEXThink|CallbackManager.cpp:102|0x59280b40] 1.5GB of virtual memory used
+Mar  2 09:00:00 nxengine NX[2335]: [NEXThink|CallbackManager.cpp:102|0x59280b40] 1.5GB of virtual memory used
+Mar  2 10:32:58 nxengine NX[1287]: [NEXThink|NxEngineMain.cpp:122|0xb88ec60] starting nxengine 4.0.1.2 (x86) from [/usr/bin/nxengine]
+Mar  2 10:32:58 nxengine NX[1287]: [NEXThink|NxEngineMain.cpp:152|0xb88ec60] demo licensed for 5000 machines expiring on 2012-03-04
+Mar  2 10:33:00 nxengine NX[1287]: [NEXThink|DataStorage.cpp:1370|0xb88ec60] loading database [/var/nxengine/nxengine.db]
+Mar  2 10:33:00 nxengine NX[1287]: [NEXThink|DataStorage.cpp:2043|0xb88ec60] database loaded in 38ms
+Mar  2 10:33:00 nxengine NX[1287]: [NEXThink|LicenseChecker.cpp:72|0x594a4a20] demo license expires in less than 2 day(s)
+Mar  2 10:33:00 nxengine NX[1287]: [NEXThink|LicenseChecker.cpp:98|0x594a4a20] 2 days left before license expiration
+Mar  2 10:33:00 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  2 10:33:00 nxengine NX[1287]: [NEXThink|AppLibraryManager.cpp:76|0xb88ec60] no license for NEXThink's library.
+Mar  2 10:33:00 nxengine NX[1287]: [NEXThink|NxEngineMain.cpp:318|0xb88ec60] nxengine is running
+Mar  2 11:00:01 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  2 12:00:00 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4c60] 1.4GB of virtual memory used
+Mar  2 13:00:00 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  2 14:00:00 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  2 15:00:00 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  2 16:00:00 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  2 17:00:00 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  2 18:00:00 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4a20] 1.4GB of virtual memory used
+Mar  2 19:00:00 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  2 20:00:00 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4c60] 1.4GB of virtual memory used
+Mar  2 21:00:00 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  2 22:00:00 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  2 23:00:00 nxengine NX[1287]: [NEXThink|CallbackManager.cpp:102|0x594a4c60] 1.4GB of virtual memory used
+Mar  3 23:52:10 nxengine NX[3709]: [NEXThink|NxEngineMain.cpp:122|0xb88ec60] starting nxengine 4.0.1.2 (x86) from [/usr/bin/nxengine]
+Mar  3 23:52:22 nxengine NX[3709]: [NEXThink|NxEngineMain.cpp:152|0xb88ec60] demo licensed for 5000 machines expiring on 2012-03-04
+Mar  4 01:33:00 nxengine NX[3709]: [NEXThink|NxEngineMain.cpp:318|0xb88ec60] nxengine is running
+Mar  4 11:00:01 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  4 12:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4c60] 1.4GB of virtual memory used
+Mar  4 13:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  4 14:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  4 15:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  4 16:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  4 17:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  4 18:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4a20] 1.4GB of virtual memory used
+Mar  4 19:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  4 20:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4c60] 1.4GB of virtual memory used
+Mar  4 21:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  4 22:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4fc0] 1.4GB of virtual memory used
+Mar  4 23:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4c60] 1.4GB of virtual memory used
+Mar  5 00:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4a20] 1.4GB of virtual memory used
+Mar  5 01:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4a20] 1.4GB of virtual memory used
+Mar  5 02:00:00 nxengine NX[3709]: [NEXThink|CallbackManager.cpp:102|0x594a4c60] 1.4GB of virtual memory used
